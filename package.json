@@ -1,0 +1,25 @@
+{
+  "name": "project_blog-backend-server",
+  "version": "1.0.0",
+  "description": "내배캠 개인과제 Node.js LV2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSol10/Project_2BlogBackend"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSol10/Project_2BlogBackend/issues"
+  },
+  "homepage": "https://github.com/SSol10/Project_2BlogBackend2#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.2.4"
+  }
+}
